@@ -30,18 +30,18 @@ This app includes pages and charts such as:
 ## CHARTS
 - [x] Line
 - [x] Area
-- [] Bar
-- [] Pie
-- [] Financial
-- [] Color-Picker
-- [] Pyramid
-- [] Stacked
+- [ ] Bar
+- [ ] Pie
+- [ ] Financial
+- [ ] Color-Picker
+- [ ] Pyramid
+- [ ] Stacked
     
 ## NAVBAR
-- [] Cart
-- [] Chat
-- [] Notification
-- [] Profile
+- [ ] Cart
+- [ ] Chat
+- [ ] Notification
+- [ ] Profile
 
 
 # Used Technologies and Dependencies
