@@ -1,6 +1,6 @@
 # About Repository (Simple Explanation)
 
-This repository is a source code for an E-Commerce Dashboard web-app non-functional(yet), built withreact, from a  youtube tutorial [Build and Deploy a React Admin Dashboard App With Theming, Tables,Charts, Calendar, Kanban and More](https://youtu.be/jx5hdo50a2M?si=4lqQohNZKvC-TRsm).
+This repository is a source code for an E-Commerce Dashboard web-app non-functional (yet), built with react, from a  youtube tutorial ([Build and Deploy a React Admin Dashboard App With Theming, Tables,Charts, Calendar, Kanban and More](https://youtu.be/jx5hdo50a2M?si=4lqQohNZKvC-TRsm)).
 It is full responsive and also has theme mode/color and this web-app contains multiple charts an apps
 
 # Screen Shots
