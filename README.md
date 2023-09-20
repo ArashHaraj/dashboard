@@ -6,7 +6,7 @@ It is full responsive and also has theme mode/color and this web-app contains mu
 # Screen Shots
 Here are some shots of the web-app
 
-![E-Commece Page](/public/screenShotsdashboard-ECommerce-page.png)
+![E-Commece Page](/public/screenShots/dashboard-ECommerce-page.png)
 ![Orders Page](/public/screenShots/dashboard-orders-page.png)
 ![Line Chart](/public/screenShots/dashboard-line-chart.png)
 ![Area Chart](/public/screenShots/dashboard-area-chart.png)
